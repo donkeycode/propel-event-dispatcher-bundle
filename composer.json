@@ -4,7 +4,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.4 || ^8.0",
-        "gharlan/propel-event-dispatcher-behavior": "^3.0"
+        "gharlan/propel-event-dispatcher-behavior": "*"
     },
     "require-dev": {
         "symfony/framework-bundle": "^5.3|^6.0",
